@@ -1,4 +1,4 @@
-<cfcomponent extends="fusebox5.Application" output="false">
+<cfcomponent extends="fusebox5.Application" output="false"> 
 	<!---
 		sample Application.cfc for ColdFusion MX 7 and later compatible systems
 	--->
